@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PomadaroClock/static/css/main.0279f59f.chunk.css",
+    "main.js": "/PomadaroClock/static/js/main.2a41287c.chunk.js",
+    "main.js.map": "/PomadaroClock/static/js/main.2a41287c.chunk.js.map",
+    "runtime-main.js": "/PomadaroClock/static/js/runtime-main.02c0870f.js",
+    "runtime-main.js.map": "/PomadaroClock/static/js/runtime-main.02c0870f.js.map",
+    "static/js/2.2d6f9044.chunk.js": "/PomadaroClock/static/js/2.2d6f9044.chunk.js",
+    "static/js/2.2d6f9044.chunk.js.map": "/PomadaroClock/static/js/2.2d6f9044.chunk.js.map",
+    "static/js/3.54c47fdb.chunk.js": "/PomadaroClock/static/js/3.54c47fdb.chunk.js",
+    "static/js/3.54c47fdb.chunk.js.map": "/PomadaroClock/static/js/3.54c47fdb.chunk.js.map",
+    "index.html": "/PomadaroClock/index.html",
+    "static/css/main.0279f59f.chunk.css.map": "/PomadaroClock/static/css/main.0279f59f.chunk.css.map",
+    "static/js/2.2d6f9044.chunk.js.LICENSE.txt": "/PomadaroClock/static/js/2.2d6f9044.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PomadaroClock/static/media/background.7021201e.jpg",
+    "static/media/music.136fe843.mp3": "/PomadaroClock/static/media/music.136fe843.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02c0870f.js",
+    "static/js/2.2d6f9044.chunk.js",
+    "static/css/main.0279f59f.chunk.css",
+    "static/js/main.2a41287c.chunk.js"
+  ]
+}
